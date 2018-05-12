@@ -1,0 +1,36 @@
+_repo: A-Literary-History-of-the-Arabs_37985
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nicholson, Reynold Alleyne
+    aliases:
+    - Nicholson, R. (Reynold Alleyne)
+    - Nicholson, R. N. (Reynold N.)
+    birthdate: 1868
+    deathdate: 1945
+    gutenberg_agent_id: '39176'
+    url: http://www.gutenberg.org/2009/agents/39176
+    wikipedia: http://en.wikipedia.org/wiki/Reynold_A._Nicholson
+description: ''
+gutenberg_issued: '2011-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37985'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PJ'
+- !lcsh 'Arabic literature -- History and criticism'
+tableOfContents: Preface -- Introduction -- Saba and Ḥimyar -- The history and legends
+  of the pagan Arabs  -- Pre-islamic poetry, manners, and religion -- The Prophet
+  and the Koran -- The orthodox caliphate and the Umayyad Dynasty -- The caliphs of
+  Baghdád -- Poetry, literature, and science in the ‘Abbásid period -- Orthodoxy,
+  free-thought, and mysticism -- The Arabs in Europe -- From the Mongol invasion to
+  the present day.
+title: A Literary History of the Arabs
+url: http://www.gutenberg.org/ebooks/37985
